@@ -8,3 +8,12 @@
 *.db
 recommendations/**/*.json
 *.jsonl
+*.ipynb
+*.sample
+*.init
+data/
+data_raw/
+.git
+.gitignore
+Dockerfile
+ab_testing/
